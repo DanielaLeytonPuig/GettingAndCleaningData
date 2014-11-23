@@ -1,5 +1,4 @@
-@@ -1,4 +1,4 @@
- 
+
 #Coursera. Getting and Cleaning Data 
  
 +————————————————
@@ -14,7 +13,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 +————————————————
  
-##The tidy Data produced by the Script gives the means per subject and activity of the variables 3 to 68 listed below.
+###The tidy Data produced by the Script gives the means per subject and activity of the variables 3 to 68 listed below.
 
  [1] "subjects"                                      
  [2] "activity"                                      
